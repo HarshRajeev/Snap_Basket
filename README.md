@@ -184,7 +184,7 @@ The application is deployed on Render. For your own deployment:
 
 If you have any questions or need help, please:
 - Open an issue on GitHub
-- Contact: ajamanjain27@gmail.com
+- Contact: harshrajeev2858@gmail.com
 
 ---
 
